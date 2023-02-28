@@ -1,0 +1,65 @@
+{
+  
+  "Name": "Milan Vala",
+  "Email": "valamilan44@gmail.com",
+  "Portfolio": "https://valamilan.netlify.app/",
+  "Contact me": "",
+  
+  "Socials": {
+    "Linkdin": "https://www.linkedin.com/in/valamilan/",
+    "Github": "https://github.com/Milanvvala",
+    "Instagram": "__"
+  },
+  "PROJECTS": {
+    "Portfolio Website": {
+      "Tools": "Astro, HTML, CSS ,JavaScript",
+      "Detail": "Personal Portfolio website made with Astro Frontend Framework hosted on Netlify."
+    },
+    "Bookmarking App": {
+    "Tools": "React, node, express, JWT, MongoDB",
+    "Detail": "Bookmarking app that uses React,Routers,Context API in frontend and on the backend node ,express, express validator and for authentication JWT,lastly for database mongoDB with mongoose."
+    },
+    "Landing Page Design": {
+    "Tools": "Figma",
+    "Detail": "Basic Landing page design made in figma"
+    }
+  },
+  "Technologies": {
+    "Programming Languages": ["HTML", "CSS", "JavaScript", "Git","Tailwind"],
+    "Frontend Frameworks and Libraries": ["React", "Bootstrap"],
+    "Backend Frameworks and Libraries": ["Node", "Express","Mongoose"],
+    "Databases": ["Mangodb"],
+    "Design Tools": ["Figma", "Wordpress","Webflow"]
+  },
+  "SKILLS & INTERESTS": {
+    "Skills": ["Programming & Designing"],
+    "Softwares": ["GitHub", "Google Workbook", "Microsoft Office", "Notion", "VS Code"],
+    "Languages": ["Native Gujarati", "Hindi", "English"],
+    "Interests": ["Web Surfing" , "Learning New Software & Technologies"]
+  },
+  "WORK EXPERIENCE":
+  {
+   "Organization": "Accurance Data Services",   
+   "Time":"Feb 2019 - March 2020",
+   "Position": "Quality Control Engineer",
+   "Details":[
+    "Received Training of Visual Inspection & Evaluation of Defects Occurred in Products for Quality Control",
+    "Conducted Visual Inspection of Client Product Images on Computer to Ensure Product Performance and Maintenance ",
+    "Provided Guidance to Trainee about Evaluating and Analyse Defects",
+    "Processed Different Types of Data for Clients Using Excel and Google Sheets"
+    ]
+  },
+  "COURSES":{
+    "Google Sheets - The Comprehensive Masterclass" : "Udemy-2023",
+    "The Complete Foundation Stock Trading Course" : "Udemy-2022",
+    "The Complete Digital Marketing Course" : "Udemy-2021"
+  },
+  "EDUCATION":{
+    "University": "Gujarat Technological University",
+    "City": "Bhavnagar",
+    "Branch": "Production Engineering",
+    "Year": "2014-2018",
+    "Result":"6.6 CGPA"
+  }
+
+}
