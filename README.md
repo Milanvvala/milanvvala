@@ -21,8 +21,8 @@
 ## Languages and Tools:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=javascript&logoColor=333) 
-![Tailwind](https://img.shields.io/badge/bootstrap-%#06B6D4.svg?style=for-the-badge&logo=tailwind&logoColor=white) 
+![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
+![Tailwind](https://img.shields.io/badge/tailwind-0B1120?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
