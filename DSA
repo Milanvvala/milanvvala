@@ -54,4 +54,26 @@
  - Operations :  push(add at top), pop(remove from top), peak(value of top element), isEmpty(), size, print(visulize stack)
  - Usage : history, undo, expresion conversion, call stack in JS runtime
 
-=>  
+=> Stack : sequential collaction of element 
+ - Last in First Out (LIFO)
+ - Operations :  push(add at top), pop(remove from top), peak(value of top element), isEmpty(), size, print(visulize stack)
+ - Usage : history, undo, expresion conversion, call stack in JS runtime
+
+=> Queue : sequential collaction of element 
+ - First in First Out (FIFO)
+ - Operations :  enqueue(add at tail), dequeue(remove from head), peak(value of front), isEmpty(), size, print(visulize stack)
+ - front/rear : enter at one end (rear) and leave at aanother end(front) [ Frontend(head)<==queue<==Rearend(tail) ]
+ - Usage : Printers, CPU Taskes, Callback queue in JS in runtime
+
+=> Circular Queue : fix sized, memory is conected as if first and last element conected, also referd as circular buffer or ring buffer
+ - First in First Out (FIFO)
+ - Operations :  enqueue(add at tail), dequeue(remove from head), peak(value of front), isEmpty(), size, print(visulize stack)
+ - front/rear : enter at one end (rear) and leave at aanother end(front) [ Frontend(head)<==queue<==Rearend(tail) ]
+ - Usage : clock, trafic lights, striming data, 
+
+=> Linked List : linear data Structure, series of conected nodes consist of value and pointer to next node
+ - easy to incert and remove without relocation of entire structure, access of element is linear time complexity(O(n) Linear)
+ - Operations :  Incertion(add at start), Deletion(remove at given index), search(find element given its value), 
+   peak(value of front), isEmpty(), size, print(visulize stack)
+ - Representation:  [ value(pointer)-->value(pointer)-->value(pointer)-->null ]
+ - Usage : Image Viewer
