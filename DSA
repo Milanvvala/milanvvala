@@ -1,0 +1,79 @@
+=> Introduction : Algorithum , Time and Space Compleity , Big O Notation , Math algo , Short , Search , other algos
+=> Algo : set of defind instructions to solve Problem -> input-algo-output
+=> Time Complecity : Time taken by algo as a function of input size
+=> Space Complexity : Memory taken by algo as a function of input size
+=> Asymptotic notation : to Represent Complexity of an Algo 
+ - Big O notation - Worst Case Complexity
+ - Omega notation - BestCase Complexity
+ - Theta notation - Avarage Case Complexity
+=> Big O Notatio : Discribes Complexity in Algebric Terms
+ - Big O Time Complecity : number of times statement exicutes based on input size
+ - Big O Objects : object.keys,valus,entries(n), add/remove/access(1)
+ - Big O Arrays : array push/pop(1) shift/unshift/concate/slice/splace/(n) foreach/map/filter/reduce(n)
+
+=> Math Algos : Fibonachi sequence, factorial, Prime of number, recurtion, power of two, FIbonachi with recursion, factorial with recursion
+ - Fibonachi Sequence : given a num "n" , find the first 'n' elements of FS -> FS = 0,1,1,2,3,5,8,13...
+ - Factorial of number : given a num "n" , find the factorial of 'n' -> n! 
+ - Prime : given a num "n", determine Prime or Not 
+ - Power of Two : given a num "n" , determine the number  is power of 2 or not 
+
+=> Resursion : when Function calls itself : it need a Basecase (a condition to terminate recurtion to go into endless loop)
+
+=> Search Algorithems : 1) Linear Search 2) Binary Search 3) Recursive binary Search
+ - Search Problem : given a Array of "n" element , find the index of target 't'
+=> Short Algorithum : 1) Bubble 2) Insersion 3) Quick 4) Merge 
+ - Shorting Problem : given a Array of "n" element, short the array 
+
+=> Data Structures : store and organize data so that it can be used efficiently, collactions of values with relation between them and functions/operations alpply to them
+ - Example : DOM is a Tree Data Structure
+=> Types of DS : Arrays, Objects, Sets, Maps, Stacks, Queues, Cicular Queues, Linked List, Hash Table, Trees, Graphs
+
+=> Arrays :  collaction of values, Resizable, contain Mix of data types, zero-indexed, iterables
+ - Methos : push(add at end), unshift(add at start), pop(remove at end), shift(remove at start), map, filter, reduce, concat, slice, splice,  
+ - Big O :  push/pop(O(1) constunt), shift/unshift/concat/slice/splice/forEach/map/filter/reduce(O(n) linear), access(O(1) constunt), search(O(n) linear)
+ - Iteration : for (let ele of arr) { console.log(ele) }
+
+=> Objects : collection of key-value pairs, contain Mix of data types, not iterable
+ - Methods  : delete, keys, values, entries, 
+ - Big O : insert/remove/access(O(1) constunt), search(O(n) linear), keys/values/entries(O(n) linear)
+
+=> Set : collaction of unique values, contain Mix of data types, not zero-indexed(unorderd), iterables
+ - initialization : const set = new Set([1, 2, 3])
+ - Methods  : add, has, delete, size, clear
+ - Big O : insert/remove/access(O(1) constunt), has/clear/size(O(n) linear)
+- Iteration : for (let item of set) { console.log(item) }
+
+=> Map : orderd collection of key-value pairs, iterables, keys can be any types
+- initialization : const map = new Map(['a', 1],['b', 2])
+- Methods  :  has, delete, size, clear, set('key', "val")
+- Big O : has/clear/size(O(n) linear)
+- Iteration : for (let [key, value] of map) { console.log(`${key}: ${value}`) }
+
+=> Stack : sequential collaction of element 
+ - Last in First Out (LIFO)
+ - Operations :  push(add at top), pop(remove from top), peak(value of top element), isEmpty(), size, print(visulize stack)
+ - Usage : history, undo, expresion conversion, call stack in JS runtime
+
+=> Stack : sequential collaction of element 
+ - Last in First Out (LIFO)
+ - Operations :  push(add at top), pop(remove from top), peak(value of top element), isEmpty(), size, print(visulize stack)
+ - Usage : history, undo, expresion conversion, call stack in JS runtime
+
+=> Queue : sequential collaction of element 
+ - First in First Out (FIFO)
+ - Operations :  enqueue(add at tail), dequeue(remove from head), peak(value of front), isEmpty(), size, print(visulize stack)
+ - front/rear : enter at one end (rear) and leave at aanother end(front) [ Frontend(head)<==queue<==Rearend(tail) ]
+ - Usage : Printers, CPU Taskes, Callback queue in JS in runtime
+
+=> Circular Queue : fix sized, memory is conected as if first and last element conected, also referd as circular buffer or ring buffer
+ - First in First Out (FIFO)
+ - Operations :  enqueue(add at tail), dequeue(remove from head), peak(value of front), isEmpty(), size, print(visulize stack)
+ - front/rear : enter at one end (rear) and leave at aanother end(front) [ Frontend(head)<==queue<==Rearend(tail) ]
+ - Usage : clock, trafic lights, striming data, 
+
+=> Linked List : linear data Structure, series of conected nodes consist of value and pointer to next node
+ - easy to incert and remove without relocation of entire structure, access of element is linear time complexity(O(n) Linear)
+ - Operations :  Incertion(add at start), Deletion(remove at given index), search(find element given its value), 
+   peak(value of front), isEmpty(), size, print(visulize stack)
+ - Representation:  [ value(pointer)-->value(pointer)-->value(pointer)-->null ]
+ - Usage : Image Viewer
