@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [https://valamilan.netlify.app/](https://valamilan.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://milanvala.netlify.app/](https://milanvala.netlify.app/)
 
 - 📫 How to reach me **https://milanvala.netlify.app/**
 
-- 📄 Know about my experiences [https://valamilan.netlify.app/](https://valamilan.netlify.app/)
+- 📄 Know about my experiences [https://milanvala.netlify.app/](https://milanvala.netlify.app/)
 
 ## Connect with me:
 [![Gmail](https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](valamilan44@gmail.com)
