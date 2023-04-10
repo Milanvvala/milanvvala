@@ -13,7 +13,7 @@
 
 ## Connect with me:
 [![Gmail](https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](valamilan44@gmail.com)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://github.com/Milanvvala)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valamilan/)
 
 ## Languages and Tools:
 
