@@ -20,7 +20,7 @@
 ![Typescript](https://img.shields.io/badge/typescript-0B1120?style=for-the-badge&logo=typescript&logoColor=06B6D4) 
 ![NextJS](https://img.shields.io/badge/nextjs-ffffff?style=for-the-badge&logo=nextjs&logoColor=06B6D4) 
 ![Tailwind](https://img.shields.io/badge/tailwind-0B1120?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4) 
-![ShadCN](https://img.shields.io/badge/shadcn-ffffff?style=for-the-badge&logo=shadcn&logoColor=06B6D4) 
+![ShadCN](https://img.shields.io/badge/shadcn-ffffff?style=for-the-badge&logo=shadcnui&logoColor=06B6D4) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/typescript.svg" />
