@@ -24,4 +24,4 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/typescript.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/shadcn.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/shadcnui.svg" />
